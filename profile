@@ -1,5 +1,5 @@
 # /etc/profile
-# Test git 2
+# Test git 444
 # System wide environment and startup programs, for login setup
 # Functions and aliases go in /etc/bashrc
 

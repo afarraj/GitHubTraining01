@@ -1,5 +1,5 @@
 # /etc/bashrc
-
++ Test git
 # System wide functions and aliases
 # Environment stuff goes in /etc/profile
 
